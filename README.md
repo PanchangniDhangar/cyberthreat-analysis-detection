@@ -1,7 +1,6 @@
 # Cyber Security Traffic Analysis & IDS
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)  
-[![Dash](https://img.shields.io/badge/Dash-Plotly-orange)](https://dash.plotly.com/)  
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)    
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 
 ## Overview
