@@ -27,8 +27,8 @@ The project is built using Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-le
 Clone the repository:
 
 ```bash
-git clone git@github.com:PanchangniDhangar/cyberthreat-analysis-&-detection.git
-cd cyberthreat-analysis-&-detection
+git clone git@github.com:PanchangniDhangar/cyberthreat-analysis-detection.git
+cd cyberthreat-analysis-detection
 ```
 Install dependencies:
 
