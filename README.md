@@ -1,6 +1,8 @@
 # Cyber Security Traffic Analysis & IDS
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)    
+[![Pandas](https://img.shields.io/badge/Pandas-latest-blue)](https://pandas.pydata.org/)      
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-latest-orange)](https://matplotlib.org/)     
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 
 ## Overview
